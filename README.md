@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, meu nome é Rodrigo 👋
+
+
 
 <!--
 **RodMartinsx/RodMartinsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+--Sou um **cientista de dados** em formação que trabalha com análise de dados a 4 anos no mercado de adquirência. 
