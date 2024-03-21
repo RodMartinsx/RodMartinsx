@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
---Sou um **cientista de dados** em formação que trabalha com análise de dados a 4 anos no mercado de adquirência. 
+- Sou um **cientista de dados** em formação que trabalha com análise de dados a 4 anos no mercado de adquirência.
+- Atualmente trabalho na empresa Prisma Promotora, uma prestadora de serviços no ramo bancário.
+- 
+- 
