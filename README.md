@@ -1,14 +1,15 @@
 ### Olá, sou o Rodrigo :)
 Atualmente faço ...        
 
-- 👨🏻‍💻 Atualmente **Cientista de dados em formação** e trabalhando com análise de dados a 4 anos no ramo de adquirência <a href="[Prisma Promotora](https://prismapromotora.com.br/)"> Hashtag Treinamentos </a>
-- 🧗🏼 Apaixonado por **escalada**
+- 👨🏻‍💻 Atualmente **Cientista de dados em formação** e trabalhando com análise de dados a 4 anos no ramo de adquirência <a href="(https://prismapromotora.com.br/)"> Prisma Promotora </a>
+- 🧗🏼 Apaixonado por **gerar soluções de negócio.*
 - 🖥️ Atualmente mais focado em:
 
 <div display="inline">
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" />&nbsp;&nbsp;
 </div>
 
 ##
