@@ -2,7 +2,7 @@
 
 
 - 👨🏻‍💻 Atualmente **Cientista de dados**  em formação e trabalhando com análise de dados a 4 anos na <a href="https://prismapromotora.com.br/"> Prisma Promotora </a>
-- 🧗🏼 Apaixonado por **gerar soluções de negócio** e criar visualizadores de dados que apoiem na tomada de decisão.  
+- 📊 Apaixonado por **gerar soluções de negócio** e criar visualizadores de dados que apoiem na tomada de decisão.
 - 🖥️ Atualmente mais focado em:
 
 <div display="inline">
