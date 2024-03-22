@@ -1,24 +1,25 @@
-### Olá, meu nome é Rodrigo 👋
+### Olá, sou o Rodrigo :)
+Atualmente faço ...        
 
+- 👨🏻‍💻 Atualmente **Cientista de dados em formação** e trabalhando com análise de dados a 4 anos no ramo de adquirência <a href="[Prisma Promotora](https://prismapromotora.com.br/)"> Hashtag Treinamentos </a>
+- 🧗🏼 Apaixonado por **escalada**
+- 🖥️ Atualmente mais focado em:
 
+<div display="inline">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" />&nbsp;&nbsp;
+</div>
 
-<!--
-**RodMartinsx/RodMartinsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- Sou um **cientista de dados** em formação que trabalha com análise de dados a 4 anos no mercado de adquirência.
-- Atualmente trabalho na empresa Prisma Promotora, uma prestadora de serviços no ramo bancário.
-- 
-- 
+### Você também me encontra em:
+<a href="https://linkedin.com/in/lucas-leal-santos">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@HashtagProgramacao">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+</a>
+          
+### Algumas publicações minhas que você pode gostar
+- [Como mentir com estatística](https://llucaslleall.medium.com/como-mentir-com-estatistica-e-graficos-guia-rapido-f6284aca16e2)
